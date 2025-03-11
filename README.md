@@ -173,4 +173,4 @@ While the traditional recommendation model showed decent performance, we selecte
 
 ## Files:
 
-The actual code with details about this project is in "**KoppertCress_Recommendation_System.py**"
+The actual code with details about this project is in "**Microgreens_Recommendation_System.py**"
